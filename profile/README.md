@@ -27,7 +27,7 @@ Next we will specify the contribution specification, if you are already impatien
 **About this GitHub org**.
 
 This is the main GitHub organization of the `Fireboom` community.
-It includes repositories of the [Fireboom core](https://github.com/xxx), plugins, surrounding ecology and case .
+It includes repositories of the [Fireboom server](https://github.com/fireboomio/fireboom), [Fireboom engine](https://github.com/fireboomio/fireboom-engine), surrounding ecology and case .
 
 Next key work：
 
