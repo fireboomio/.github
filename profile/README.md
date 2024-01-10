@@ -1,7 +1,7 @@
 ## Build great things
 
 [![Website](https://img.shields.io/static/v1?label=Website&message=fireboom.io&color=blue)](https://fireboom.io/)
-[![Join the chat at https://app.gitter.im/#/room/#jenkins-ci:matrix.org](https://badges.gitter.im/badge.svg)](https://matrix.to/#/#fireboom:gitter.im)
+[![Discord](https://img.shields.io/static/v1?label=Discord&message=fireboom&color=green)](https://discord.com/channels/1194632324676059307/1194632325368139828)
 [![Contribute](https://img.shields.io/static/v1?label=Contribute&message=fireboom&color=orange)](https://github.com/fireboomio)
 
 In a nutshell, `Fireboom` is a *visualization* API cloud platform designed for developers with the goal of rapidly delivering production-ready APIs. 
